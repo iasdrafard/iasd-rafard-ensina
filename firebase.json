@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "iasd-ensina/dist",
     "ignore": [
       "firebase.json",
       "**/.*",
